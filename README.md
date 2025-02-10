@@ -1,41 +1,36 @@
-# 🚀 Asma Sheikh's Data Science Portfolio  
+# 🚀 Asma Sheikh's Data Science Portfolio
 
-Welcome to my **Data Science Portfolio**! This repository contains various **Machine Learning and Data Science projects** showcasing my skills in **Python, Machine Learning, Deep Learning, and Data Visualization**. Each project includes a well-structured **Jupyter Notebook** with code, explanations, and insights.  
+Welcome to my **Data Science Portfolio**! This repository contains various **Machine Learning and Data Science projects** showcasing my skills in **Python, Machine Learning, Deep Learning, and Data Visualization**. Each project includes a well-structured **Jupyter Notebook** with code, explanations, and insights.
 
-📊 **Skills & Technologies:**  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%230081CB.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+<img align="right" alt="coding" width="1000" width="400" src="https://media.geeksforgeeks.org/wp-content/uploads/20240206103015/Data-Sciecne-Projects.webp">  
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Projects Overview
 
 | #  | Project Name                                         | Description                                              |
 |----|-----------------------------------------------------|----------------------------------------------------------|
-| 1️⃣  | [Analyzing Driver Patterns Using K-Means Clustering](./Analyzing%20Driver%20Patterns%20Using%20K-Means%20Clustering.ipynb) | Clustering drivers based on their travel and speed patterns. |
-| 2️⃣  | [Heart Disease Prediction](./Heart_Disease_Prediction.ipynb) | Classification model to predict heart disease using patient data. |
-| 3️⃣  | [KNN Classification on Iris Dataset](./KNN_Classification_Iris.ipynb) | Implementing K-Nearest Neighbors (KNN) algorithm on the Iris dataset. |
-| 4️⃣  | [Naive Bayes Model for iPhone Purchase Prediction](./Naive_Bayes_iPhone_Purchase.ipynb) | Using Naive Bayes to predict whether a person will purchase an iPhone. |
-| 5️⃣  | [SVM for iPhone Purchase Prediction](./SVM_iPhone_Purchase.ipynb) | Applying Support Vector Machine (SVM) for classification. |
-| 6️⃣  | [Salary Classification Using Decision Tree](./Salary_Classification_DecisionTree.ipynb) | Predicting salaries using decision trees. |
-| 7️⃣  | [Titanic Survival Prediction](./Titanic_Survival_Prediction.ipynb) | Machine learning model to predict Titanic survivors. |
-| 8️⃣  | [Weather Trends Analysis](./Weather_Trends_Analysis.ipynb) | Exploring weather data trends using visualization. |
+| 1️⃣  | [Analyzing Driver Patterns Using K-Means Clustering](#1️⃣-analyzing-driver-patterns-using-k-means-clustering) | Clustering drivers based on their travel and speed patterns. |
+| 2️⃣  | [Heart Disease Prediction](#2️⃣-heart-disease-prediction) | Classification model to predict heart disease using patient data. |
+| 3️⃣  | [KNN Classification on Iris Dataset](#3️⃣-knn-classification-on-iris-dataset) | Implementing K-Nearest Neighbors (KNN) algorithm on the Iris dataset. |
+| 4️⃣  | [Naive Bayes Model for iPhone Purchase Prediction](#4️⃣-naive-bayes-model-for-iphone-purchase-prediction) | Using Naive Bayes to predict whether a person will purchase an iPhone. |
+| 5️⃣  | [SVM for iPhone Purchase Prediction](#5️⃣-svm-for-iphone-purchase-prediction) | Applying Support Vector Machine (SVM) for classification. |
+| 6️⃣  | [Salary Classification Using Decision Tree](#6️⃣-salary-classification-using-decision-tree) | Predicting salaries using decision trees. |
+| 7️⃣  | [Titanic Survival Prediction](#7️⃣-titanic-survival-prediction) | Machine learning model to predict Titanic survivors. |
+| 8️⃣  | [Weather Trends Analysis](#8️⃣-weather-trends-analysis) | Exploring weather data trends using visualization. |
 
 ---
 
-## 📂 Project Highlights  
+## 📂 Project Details
 
-### 1️⃣ Analyzing Driver Patterns Using K-Means Clustering  
+### 1️⃣ Analyzing Driver Patterns Using K-Means Clustering
 
 **📌 Problem Statement:**  
-Identify patterns in driver behavior using clustering.  
+Identify patterns in driver behavior using clustering.
 
 **📊 Dataset Details:**  
 - **Source:** Driver behavior dataset  
-- **Features used:** `mean_dist_day`, `mean_over_speed_perc`  
+- **Features used:** `mean_dist_day`, `mean_over_speed_perc`
 
 **🔎 Steps Taken:**  
 ✅ Data cleaning and preprocessing  
@@ -46,18 +41,18 @@ Identify patterns in driver behavior using clustering.
 - Identified distinct driver clusters based on speed and distance.  
 - Helped in understanding driver behavior for risk analysis.  
 
-🔗 **[View Project](./Analyzing%20Driver%20Patterns%20Using%20K-Means%20Clustering.ipynb)**  
+**🔗 [View Project](./Analyzing%20Driver%20Patterns%20Using%20K-Means%20Clustering.ipynb.ipynb)**  
 
 ---
 
-### 2️⃣ Heart Disease Prediction  
+### 2️⃣ Heart Disease Prediction
 
 **📌 Problem Statement:**  
-Predict the likelihood of heart disease based on health metrics.  
+Predict the likelihood of heart disease based on health metrics.
 
 **📊 Dataset Details:**  
 - **Source:** Heart disease dataset  
-- **Features used:** `Age`, `Cholesterol`, `Blood Pressure`, etc.  
+- **Features used:** `Age`, `Cholesterol`, `Blood Pressure`, etc.
 
 **🔎 Steps Taken:**  
 ✅ Data preprocessing and feature engineering  
@@ -68,15 +63,65 @@ Predict the likelihood of heart disease based on health metrics.
 - Achieved high accuracy in predictions.  
 - Identified key risk factors for heart disease.  
 
-🔗 **[View Project](./Heart_Disease_Prediction.ipynb)**  
+**🔗 [View Project](./Heart_Disease_Prediction%20(1).ipynb)**  
 
 ---
 
-(More project descriptions to be added similarly)
+### 3️⃣ KNN Classification on Iris Dataset
+
+**📌 Problem Statement:**  
+Classify Iris flower species using KNN.
+
+**🔗 [View Project](./KNN%20Classification%20on%20Iris%20Dataset.ipynb)**  
 
 ---
 
-## 🎨 Visual Enhancements  
+### 4️⃣ Naive Bayes Model for iPhone Purchase Prediction
+
+**📌 Problem Statement:**  
+Predict whether a person will purchase an iPhone using Naive Bayes.
+
+**🔗 [View Project](./Naive_Bayes_Iphone_Purchase_Prediction.ipynb.ipynb)**  
+
+---
+
+### 5️⃣ SVM for iPhone Purchase Prediction
+
+**📌 Problem Statement:**  
+Use Support Vector Machine for iPhone purchase classification.
+
+**🔗 [View Project](./SVM_Iphone_Purchase_Prediction.ipynb)**  
+
+---
+
+### 6️⃣ Salary Classification Using Decision Tree
+
+**📌 Problem Statement:**  
+Predict salary categories using decision trees.
+
+**🔗 [View Project](./Salary%20Classification%20using%20Decision%20Tree.ipynb)**  
+
+---
+
+### 7️⃣ Titanic Survival Prediction
+
+**📌 Problem Statement:**  
+Predict survival of passengers on the Titanic.
+
+**🔗 [View Project](./Titanic_Survival_Prediction_Using_Machine_Learning%20(1).ipynb)**  
+
+---
+
+### 8️⃣ Weather Trends Analysis
+
+**📌 Problem Statement:**  
+Analyze and visualize weather data trends.
+
+**🔗 [View Project](./Weather%20Trends%20Analysis.ipynb)**  
+
+---
+
+## 🎨 Visual Enhancements
 
 To make the projects more engaging, I have used:  
 ✔ **Matplotlib & Seaborn for visualization**  
@@ -87,11 +132,10 @@ To make the projects more engaging, I have used:
 
 ## 📄 Portfolio & Contact  
 
-📌 **Portfolio.md** contains my top projects with direct links.  
+📌 **GitHub Repository:** [My GitHub](https://github.com/AsmaSheikh438)  
 
-📧 **Contact Me:**  
-📍 [LinkedIn](https://www.linkedin.com/in/fatma-sheikh-950915242)  
-📍 [GitHub](https://github.com/YourGitHubUsername)  
+📌 **LinkedIn:** [Asma Sheikh](https://www.linkedin.com/in/asma-sheikh-43bbab328)  
 
 ⭐ **If you find my projects useful, don't forget to star this repository!** ⭐  
+
 
